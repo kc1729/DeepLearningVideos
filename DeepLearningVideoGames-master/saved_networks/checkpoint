@@ -1,0 +1,6 @@
+model_checkpoint_path: "saved_networks/tetris-dqn-240000"
+all_model_checkpoint_paths: "saved_networks/tetris-dqn-200000"
+all_model_checkpoint_paths: "saved_networks/tetris-dqn-210000"
+all_model_checkpoint_paths: "saved_networks/tetris-dqn-220000"
+all_model_checkpoint_paths: "saved_networks/tetris-dqn-230000"
+all_model_checkpoint_paths: "saved_networks/tetris-dqn-240000"
